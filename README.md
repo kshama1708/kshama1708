@@ -48,7 +48,7 @@ Responsive portfolio website to showcase my skills and projects
 ## 🌐 Connect With Me
 - 💼 LinkedIn:  www.linkedin.com/in/kshamas 
 - 📧 Email: kshamas0817@gmail.com 
-- 🌍 Portfolio:   
+- 🌍 Portfolio:  https://kshamapersonalportfolio.netlify.app/ 
 
 ---
 
